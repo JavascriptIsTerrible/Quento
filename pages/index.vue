@@ -44,9 +44,7 @@
                <h1 style="color:#0a2540;font-family:ginger-normal;font-weight:bold;">A fully integrated suite of digital tools</h1>
                <p class="text-ginger" style="color:#42547d;">Quento is <span style="color:#9c44db;font-weight:bold;">open-source</span>, freely available, and built from the ground up by a passionate community. Acting in the same capacity as a <span style="color:#9c44db;font-weight:bold;">digital pencil case</span>, the platform serves to centralize a wide variety of <span style="color:#9c44db;font-weight:bold;">web tools</span> created by and for <span style="color:#9c44db;font-weight:bold;">Canadian high school students</span>.</p>
                </div>
-            </div>
-         </div>
-         <div data-aos="fade-left" data-aos-duration="1200" class="rightDiv flex items-center justify-center">
+            </div>         <div data-aos="fade-left" data-aos-duration="1200" class="rightDiv flex items-center justify-center">
             <img src="../assets/images/laptop.png" style="height:80%;"> 
          </div>
       </section>
@@ -155,6 +153,7 @@
       <section id="footerContainer">
          <div class="footer w-full items-center justify-center flex" style="background-image: linear-gradient(to right, #4a45f4, #df43c6);">
             <a style="position:absolute;color:white;opacity:0.95;font-family:ginger-light;">Quento &nbsp;<span>2020&nbsp;&nbsp;&nbsp;&nbsp;hello@quento.ca</span></a>
+            <a style="position:absolute;color:white;opacity:1.00;"rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
          </div>
       </section>
    </div>
